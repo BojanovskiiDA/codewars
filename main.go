@@ -9,5 +9,5 @@ import (
 
  
 func main() {
-	fmt.Println(kata.Pyramid(5))
+	fmt.Println(kata.CountBits(5))
 }
