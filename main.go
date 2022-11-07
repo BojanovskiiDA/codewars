@@ -9,5 +9,5 @@ import (
 
  
 func main() {
-	fmt.Println(kata.CountBits(5))
+	fmt.Println(kata.QueueTime([]int{2,3,10}, 2))
 }
