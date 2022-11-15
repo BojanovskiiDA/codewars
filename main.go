@@ -9,5 +9,5 @@ import (
 
  
 func main() {
-	fmt.Println(kata.NbrOfLaps(1255,6535))
+	fmt.Println(kata.Parse("iiisdoso"))
 }
