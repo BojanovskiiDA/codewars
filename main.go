@@ -9,5 +9,5 @@ import (
 
  
 func main() {
-	fmt.Println(kata.Parse("iiisdoso"))
+	fmt.Println(kata.HumanReadableTime(86399))
 }
